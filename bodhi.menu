@@ -1,9 +1,6 @@
 MENU BEGIN BODHI
+MENU TITLE Bodhi 2.1.0
 MENU LABEL ^Bodhi 2.1.0
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
 MENU BACKGROUND er/plugins/bodhi/bodhi.png
 
 MENU INCLUDE er/plugins/bodhi/i386/bodhimain.menu
