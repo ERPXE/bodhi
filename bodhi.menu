@@ -1,6 +1,6 @@
 MENU BEGIN BODHI
-MENU TITLE Bodhi 2.1.0
-MENU LABEL ^Bodhi 2.1.0
+MENU TITLE Bodhi 2.4.0
+MENU LABEL ^Bodhi 2.4.0
 MENU BACKGROUND er/plugins/bodhi/bodhi.png
 
 MENU INCLUDE er/plugins/bodhi/i386/bodhimain.menu
